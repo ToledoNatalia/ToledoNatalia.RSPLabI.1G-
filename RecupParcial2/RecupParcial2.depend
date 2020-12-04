@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1607040169 source:c:\users\usuario\desktop\recupparcial2\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicletas.h"
+	<string.h>
+	"Controller.h"
+
+1607034682 c:\users\usuario\desktop\recupparcial2\bicicletas.h
+	"LinkedList.h"
+
+1607038001 c:\users\usuario\desktop\recupparcial2\linkedlist.h
+
+1607034682 c:\users\usuario\desktop\recupparcial2\controller.h
+
+1607040311 source:c:\users\usuario\desktop\recupparcial2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"Controller.h"
+	"parser.h"
+	<string.h>
+
+1607034682 c:\users\usuario\desktop\recupparcial2\parser.h
+
+1607034579 source:c:\users\usuario\desktop\recupparcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1607040114 source:c:\users\usuario\desktop\recupparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	"bicicletas.h"
+	"controller.h"
+
+1607034706 source:c:\users\usuario\desktop\recupparcial2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+
